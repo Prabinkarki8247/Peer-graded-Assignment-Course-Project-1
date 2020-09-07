@@ -1,6 +1,4 @@
 # Peer-graded-Assignment-Course-Project-1
-At Thanks for look around my result.
-Above all, please understand my English skill..
 
 There are 3 files in this repository
 <li> README.md </li>
@@ -34,7 +32,3 @@ web site</a>:
 3. Modify variables classes appropriate for making plots
 4. Make plots and save plots
 
-## Problem
-In plot3 and plot4, legend in PNG file is cut off...please look at my PNG file.
-In window screen, there is no problem at legend, but when I save images, problem happens.
-I think problem appears when setting images for certain size.
